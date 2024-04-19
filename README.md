@@ -6,5 +6,5 @@ To share photo with frame over social media.
 
 Click me & frame me!!!
 
-# Demo 
-https://main.dgqdyv9uzmpoc.amplifyapp.com/
+# Demo
+https://myphotob.netlify.app/ 
